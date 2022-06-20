@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "moment": "^2.29.3",
+    "node-fetch": "^2.6.1",
+    "readline-sync": "^1.4.10"
+  }
+}
