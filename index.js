@@ -53,7 +53,7 @@ By : ${chalk.bold('Arnazx#9611')} - Sleep Jgn di ubah kalo gamau banned deck
       const trophy = data.User.SkillRating;
       const crown = data.User.Crowns;
 
-console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.white(`User : ${username}`)} | ${chalk.blue(`Trophy : ${trophy}`)} | ${chalk.red(`Crown : ${crown}`)}`));
+console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.white(`User By Arnaz : ${username}`)} | ${chalk.blue(`Trophy By Arnaz : ${trophy}`)} | ${chalk.red(`Crown : ${crown}`)}`));
       await sleep(5500);
 
     } else if (result == 'BANNED') {
