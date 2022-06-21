@@ -40,7 +40,7 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 By : ${chalk.bold('Arnazx#9611')}
 `);
 
-  const auth = rs.question('Enter Authentication Code! : ');
+  const auth = rs.question('Masukin kode auth lu : ');
   console.log('');
 
   while (true) {
