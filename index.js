@@ -40,7 +40,7 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 By : ${chalk.bold('Arnazx#9611')}
 `);
 
-  const auth = rs.question('Enter Authentication Code! : ');
+  const auth = rs.question('Masukin Auth Lu : ');
   console.log('');
 
   while (true) {
@@ -49,9 +49,6 @@ By : ${chalk.bold('Arnazx#9611')}
     if (!result) {
 
       console.log(chalk.red(`\r[ ${moment().format('HH:mm:ss')} ] Authentication Code Not Valid`));
-
-    console.log(gradient('red', 'violet', 'blue', 'purple', 'blue', 'indigo', 'violet')(`\r[ ${moment().format('HH:mm:ss')} ] Code Auth sudah Expired!`));
-            break;
 
     } else if (result.includes('User')) {
 
@@ -62,7 +59,7 @@ By : ${chalk.bold('Arnazx#9611')}
       const crown = data.User.Crowns;
 
 console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.white(`User : ${username}`)} | ${chalk.blue(`Trophy : ${trophy}`)} | ${chalk.red(`Crown : ${crown}`)}`));
-      await sleep(4500);
+      await sleep(1000);
 
     } else if (result == 'BANNED') {
       console.log(chalk.bgRed(`Mampus ke banned akunnya aowokaw:v`));
