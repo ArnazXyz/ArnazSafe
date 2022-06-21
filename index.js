@@ -27,8 +27,8 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 
 (async () => {
 
-  console.log('red', 'orange', 'yellow', 'blue', 'indigo', 'violet')(`Trophy And Crown Hack Safe!
-By : ${chalk.bold('Arnazx#9611')} - Credit : @Arnazx 
+  console.log(`Trophy And Crown Hack Safe!
+By : ${chalk.bold('Arnazx#9611')} - Credit : @dkmpostor & @Eskey & @Arnazx 
 `);
 
   const auth = rs.question('Enter Authentication Code! : ');
@@ -42,6 +42,9 @@ By : ${chalk.bold('Arnazx#9611')} - Credit : @Arnazx
       console.log(chalk.red(`\r[ ${moment().format('HH:mm:ss')} ] Authentication Code Not Valid`));
       break;
 
+    console.log(gradient('red', 'violet', 'blue', 'purple', 'blue', 'indigo', 'violet')(`\r[ ${moment().format('HH:mm:ss')} ] Code Auth sudah Expired!`));
+            break;
+
     } else if (result.includes('User')) {
 
       const data = JSON.parse(result);
@@ -50,8 +53,8 @@ By : ${chalk.bold('Arnazx#9611')} - Credit : @Arnazx
       const trophy = data.User.SkillRating;
       const crown = data.User.Crowns;
 
-console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.white(`User : ${username}`)} | ${chalk.blue(`Trophy : ${trophy}`)} | ${chalk.violet(`Crown : ${crown}`)}`));
-      await sleep(7000);
+console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.white(`User : ${username}`)} | ${chalk.blue(`Trophy : ${trophy}`)} | ${chalk.red(`Crown : ${crown}`)}`));
+      await sleep(5000);
 
     } else if (result == 'BANNED') {
       console.log(chalk.bgRed(`Mampus ke banned akunnya aowokaw:v`));
