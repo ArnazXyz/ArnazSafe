@@ -1,1 +1,72 @@
-const _0x573e70=_0x117b;function _0x117b(_0x2165de,_0x4664b7){const _0x303a1b=_0x42a6();return _0x117b=function(_0xd15bc1,_0x532ed6){_0xd15bc1=_0xd15bc1-0x15d;let _0x5c1ece=_0x303a1b[_0xd15bc1];return _0x5c1ece;},_0x117b(_0x2165de,_0x4664b7);}(function(_0x2bea52,_0x435326){const _0x1df705=_0x117b,_0x97ea78=_0x2bea52();while(!![]){try{const _0x356e29=-parseInt(_0x1df705(0x194))/0x1*(-parseInt(_0x1df705(0x17a))/0x2)+-parseInt(_0x1df705(0x16b))/0x3+-parseInt(_0x1df705(0x178))/0x4+-parseInt(_0x1df705(0x16f))/0x5*(parseInt(_0x1df705(0x183))/0x6)+parseInt(_0x1df705(0x187))/0x7*(parseInt(_0x1df705(0x17f))/0x8)+-parseInt(_0x1df705(0x182))/0x9+parseInt(_0x1df705(0x168))/0xa*(parseInt(_0x1df705(0x165))/0xb);if(_0x356e29===_0x435326)break;else _0x97ea78['push'](_0x97ea78['shift']());}catch(_0x5038e2){_0x97ea78['push'](_0x97ea78['shift']());}}}(_0x42a6,0x942e7));const _0x2a3f10=(function(){let _0x2ed0fb=!![];return function(_0x57a18d,_0x3b91fa){const _0x286f3e=_0x2ed0fb?function(){const _0x4ff1f5=_0x117b;if(_0x3b91fa){const _0x2e6491=_0x3b91fa[_0x4ff1f5(0x18a)](_0x57a18d,arguments);return _0x3b91fa=null,_0x2e6491;}}:function(){};return _0x2ed0fb=![],_0x286f3e;};}()),_0x5cf0bd=_0x2a3f10(this,function(){const _0x32fd40=_0x117b;return _0x5cf0bd['toString']()[_0x32fd40(0x16c)](_0x32fd40(0x170))['toString']()[_0x32fd40(0x16a)](_0x5cf0bd)['search'](_0x32fd40(0x170));});_0x5cf0bd();const _0x532ed6=(function(){let _0x316d79=!![];return function(_0x682ee2,_0x1054a3){const _0x4e3fec=_0x316d79?function(){if(_0x1054a3){const _0x53cafe=_0x1054a3['apply'](_0x682ee2,arguments);return _0x1054a3=null,_0x53cafe;}}:function(){};return _0x316d79=![],_0x4e3fec;};}()),_0xd15bc1=_0x532ed6(this,function(){const _0x1ee618=_0x117b,_0x14030e=function(){const _0x4ab166=_0x117b;let _0x17f7ec;try{_0x17f7ec=Function(_0x4ab166(0x177)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x372eb1){_0x17f7ec=window;}return _0x17f7ec;},_0x2fb4de=_0x14030e(),_0x5a6e08=_0x2fb4de[_0x1ee618(0x162)]=_0x2fb4de['console']||{},_0xfbd33d=[_0x1ee618(0x17e),'warn',_0x1ee618(0x16d),_0x1ee618(0x18c),_0x1ee618(0x17c),_0x1ee618(0x189),_0x1ee618(0x18b)];for(let _0x32aea2=0x0;_0x32aea2<_0xfbd33d[_0x1ee618(0x18f)];_0x32aea2++){const _0x5506b6=_0x532ed6[_0x1ee618(0x16a)][_0x1ee618(0x193)]['bind'](_0x532ed6),_0x18c10d=_0xfbd33d[_0x32aea2],_0x4ec442=_0x5a6e08[_0x18c10d]||_0x5506b6;_0x5506b6[_0x1ee618(0x15f)]=_0x532ed6['bind'](_0x532ed6),_0x5506b6[_0x1ee618(0x174)]=_0x4ec442[_0x1ee618(0x174)][_0x1ee618(0x18e)](_0x4ec442),_0x5a6e08[_0x18c10d]=_0x5506b6;}});_0xd15bc1();const fetch=require(_0x573e70(0x163)),moment=require('moment'),chalk=require(_0x573e70(0x16e)),rs=require(_0x573e70(0x173));function _0x42a6(){const _0x4e0db8=['Username','10FPTQbk','text','constructor','1570614FcDSJD','search','info','chalk','1619035CDbOxc','(((.+)+)+)+$','BANNED','User','readline-sync','toString','User\x20:\x20','catch','return\x20(function()\x20','2766348GSUEQf','Crown\x20:\x20','292bsPYlN','bgBlack','exception','Crowns','log','4307552BEAaNB','Arnazx#9611','bold','10713078hIJvtx','6TrifMg','parse','yellow','includes','14KkMfnZ','Trophy\x20:\x20','table','apply','trace','error','Mampus\x20ke\x20banned\x20akunnya\x20aowokaw:v','bind','length','Country','HH:mm:ss','then','prototype','4633pmgvEC','\x20▄▄▄\x20\x20\x20\x20\x20\x20\x20██▀███\x20\x20\x20███▄\x20\x20\x20\x20█\x20\x20▄▄▄\x20\x20\x20\x20\x20\x20▒███████▒▒██\x20\x20\x20██▒\x0a▒████▄\x20\x20\x20\x20▓██\x20▒\x20██▒\x20██\x20▀█\x20\x20\x20█\x20▒████▄\x20\x20\x20\x20▒\x20▒\x20▒\x20▄▀░▒▒\x20█\x20█\x20▒░\x0a▒██\x20\x20▀█▄\x20\x20▓██\x20░▄█\x20▒▓██\x20\x20▀█\x20██▒▒██\x20\x20▀█▄\x20\x20░\x20▒\x20▄▀▒░\x20░░\x20\x20█\x20\x20\x20░\x0a░██▄▄▄▄██\x20▒██▀▀█▄\x20\x20▓██▒\x20\x20▐▌██▒░██▄▄▄▄██\x20\x20\x20▄▀▒\x20\x20\x20░\x20░\x20█\x20█\x20▒\x20\x0a\x20▓█\x20\x20\x20▓██▒░██▓\x20▒██▒▒██░\x20\x20\x20▓██░\x20▓█\x20\x20\x20▓██▒▒███████▒▒██▒\x20▒██▒\x0a\x20▒▒\x20\x20\x20▓▒█░░\x20▒▓\x20░▒▓░░\x20▒░\x20\x20\x20▒\x20▒\x20\x20▒▒\x20\x20\x20▓▒█░░▒▒\x20▓░▒░▒▒▒\x20░\x20░▓\x20░\x0a\x20\x20▒\x20\x20\x20▒▒\x20░\x20\x20░▒\x20░\x20▒░░\x20░░\x20\x20\x20░\x20▒░\x20\x20▒\x20\x20\x20▒▒\x20░░░▒\x20▒\x20░\x20▒░░\x20\x20\x20░▒\x20░\x0a\x20\x20░\x20\x20\x20▒\x20\x20\x20\x20\x20░░\x20\x20\x20░\x20\x20\x20\x20░\x20\x20\x20░\x20░\x20\x20\x20░\x20\x20\x20▒\x20\x20\x20░\x20░\x20░\x20░\x20░\x20░\x20\x20\x20\x20░\x20\x20\x0a\x20\x20\x20\x20\x20\x20░\x20\x20░\x20\x20\x20░\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20░\x20\x20\x20\x20\x20\x20\x20░\x20\x20░\x20\x20░\x20░\x20\x20\x20\x20\x20░\x20\x20\x20\x20░\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20░\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0aBy\x20:\x20','format','\x0d[\x20','__proto__','Enter\x20Authentication\x20Code!\x20:\x20','\x20]\x20','console','node-fetch','\x20|\x20','17412109vgeeXm','question'];_0x42a6=function(){return _0x4e0db8;};return _0x42a6();}function sleep(_0x39c164){return new Promise(_0x2fd094=>setTimeout(_0x2fd094,_0x39c164));}const GoStumble=_0x106ce1=>new Promise((_0x14a4a3,_0x5d6a69)=>{const _0x331b51=_0x573e70;fetch('http://kitkabackend.eastus.cloudapp.azure.com:5010/round/finishv2/3',{'method':'GET','headers':{'authorization':_0x106ce1}})[_0x331b51(0x192)](_0x5b109d=>_0x5b109d[_0x331b51(0x169)]())[_0x331b51(0x192)](_0x9d4bfe=>{_0x14a4a3(_0x9d4bfe);})[_0x331b51(0x176)](_0x1b965f=>{_0x5d6a69(_0x1b965f);});});((async()=>{const _0x276e43=_0x573e70;console['log'](_0x276e43(0x195)+chalk[_0x276e43(0x181)](_0x276e43(0x180))+'\x20-\x20Credit\x20:\x20@dkmpostor\x20&\x20@Eskey\x20&\x20@Arnazx\x20\x0a');const _0x56a324=rs[_0x276e43(0x166)](_0x276e43(0x160));console[_0x276e43(0x17e)]('');while(!![]){const _0x298849=await GoStumble(_0x56a324);if(!_0x298849){console[_0x276e43(0x17e)](chalk['red'](_0x276e43(0x15e)+moment()['format'](_0x276e43(0x191))+'\x20]\x20Authentication\x20Code\x20Not\x20Valid'));break;}else{if(_0x298849[_0x276e43(0x186)](_0x276e43(0x172))){const _0x107dfe=JSON[_0x276e43(0x184)](_0x298849),_0x250d80=_0x107dfe[_0x276e43(0x172)][_0x276e43(0x167)],_0x8e7e09=_0x107dfe[_0x276e43(0x172)][_0x276e43(0x190)],_0x2fa6a7=_0x107dfe[_0x276e43(0x172)]['SkillRating'],_0x482f6d=_0x107dfe[_0x276e43(0x172)][_0x276e43(0x17d)];console[_0x276e43(0x17e)](chalk[_0x276e43(0x17b)](_0x276e43(0x15e)+moment()[_0x276e43(0x15d)](_0x276e43(0x191))+_0x276e43(0x161)+chalk['white'](_0x276e43(0x175)+_0x250d80)+'\x20|\x20'+chalk[_0x276e43(0x185)](_0x276e43(0x188)+_0x2fa6a7)+_0x276e43(0x164)+chalk['red'](_0x276e43(0x179)+_0x482f6d))),await sleep(0xdac);}else{if(_0x298849==_0x276e43(0x171)){console[_0x276e43(0x17e)](chalk['bgRed'](_0x276e43(0x18d)));break;}}}}})());
+const fetch = require('node-fetch');
+const moment = require('moment');
+const chalk = require('chalk');
+const rs = require('readline-sync');
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+const GoStumble = (auth) => new Promise((resolve, reject) => {
+
+  fetch('http://kitkabackend.eastus.cloudapp.azure.com:5010/round/finishv2/3', {
+    method: 'GET',
+    headers: {
+      'authorization': auth
+    }
+  })
+    .then(res => res.text())
+    .then(data => {
+      resolve(data);
+    })
+    .catch(err => {
+      reject(err);
+    });
+
+});
+
+(async () => {
+
+  console.log(` ▄▄▄       ██▀███   ███▄    █  ▄▄▄      ▒███████▒▒██   ██▒
+▒████▄    ▓██ ▒ ██▒ ██ ▀█   █ ▒████▄    ▒ ▒ ▒ ▄▀░▒▒ █ █ ▒░
+▒██  ▀█▄  ▓██ ░▄█ ▒▓██  ▀█ ██▒▒██  ▀█▄  ░ ▒ ▄▀▒░ ░░  █   ░
+░██▄▄▄▄██ ▒██▀▀█▄  ▓██▒  ▐▌██▒░██▄▄▄▄██   ▄▀▒   ░ ░ █ █ ▒ 
+ ▓█   ▓██▒░██▓ ▒██▒▒██░   ▓██░ ▓█   ▓██▒▒███████▒▒██▒ ▒██▒
+ ▒▒   ▓▒█░░ ▒▓ ░▒▓░░ ▒░   ▒ ▒  ▒▒   ▓▒█░░▒▒ ▓░▒░▒▒▒ ░ ░▓ ░
+  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░░   ░ ▒░  ▒   ▒▒ ░░░▒ ▒ ░ ▒░░   ░▒ ░
+  ░   ▒     ░░   ░    ░   ░ ░   ░   ▒   ░ ░ ░ ░ ░ ░    ░  
+      ░  ░   ░              ░       ░  ░  ░ ░     ░    ░  
+                                        ░                 
+By : ${chalk.bold('Arnazx#9611')}
+`);
+
+  const auth = rs.question('Enter Authentication Code! : ');
+  console.log('');
+
+  while (true) {
+
+    const result = await GoStumble(auth);
+    if (!result) {
+
+      console.log(chalk.red(`\r[ ${moment().format('HH:mm:ss')} ] Authentication Code Not Valid`));
+      break;
+
+    } else if (result.includes('User')) {
+
+      const data = JSON.parse(result);
+      const username = data.User.Username;
+      const country = data.User.Country;
+      const trophy = data.User.SkillRating;
+      const crown = data.User.Crowns;
+
+console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.white(`User By Arnaz: ${username}`)} | ${chalk.yellow(`Trophy : ${trophy}`)} | ${chalk.red(`Crown By Arnaz: ${crown}`)}`));
+      await sleep(5500);
+
+    } else if (result == 'BANNED') {
+      console.log(chalk.bgRed(`Mampus ke banned akunnya aowokaw:v`));
+     break;
+    }
+  }
+
+
+})();
