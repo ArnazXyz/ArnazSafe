@@ -27,8 +27,17 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 
 (async () => {
 
-  console.log(`Trophy And Crown Hack Safe!
-By : ${chalk.bold('Arnazx#9611')} - Sleep Jgn di ubah kalo gamau banned deck 
+  console.log(` ▄▄▄       ██▀███   ███▄    █  ▄▄▄      ▒███████▒▒██   ██▒
+▒████▄    ▓██ ▒ ██▒ ██ ▀█   █ ▒████▄    ▒ ▒ ▒ ▄▀░▒▒ █ █ ▒░
+▒██  ▀█▄  ▓██ ░▄█ ▒▓██  ▀█ ██▒▒██  ▀█▄  ░ ▒ ▄▀▒░ ░░  █   ░
+░██▄▄▄▄██ ▒██▀▀█▄  ▓██▒  ▐▌██▒░██▄▄▄▄██   ▄▀▒   ░ ░ █ █ ▒ 
+ ▓█   ▓██▒░██▓ ▒██▒▒██░   ▓██░ ▓█   ▓██▒▒███████▒▒██▒ ▒██▒
+ ▒▒   ▓▒█░░ ▒▓ ░▒▓░░ ▒░   ▒ ▒  ▒▒   ▓▒█░░▒▒ ▓░▒░▒▒▒ ░ ░▓ ░
+  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░░   ░ ▒░  ▒   ▒▒ ░░░▒ ▒ ░ ▒░░   ░▒ ░
+  ░   ▒     ░░   ░    ░   ░ ░   ░   ▒   ░ ░ ░ ░ ░ ░    ░  
+      ░  ░   ░              ░       ░  ░  ░ ░     ░    ░  
+                                        ░                 
+By : ${chalk.bold('Arnazx#9611')}
 `);
 
   const auth = rs.question('Enter Authentication Code! : ');
@@ -53,8 +62,8 @@ By : ${chalk.bold('Arnazx#9611')} - Sleep Jgn di ubah kalo gamau banned deck
       const trophy = data.User.SkillRating;
       const crown = data.User.Crowns;
 
-console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.white(`User By Arnaz : ${username}`)} | ${chalk.blue(`Trophy By Arnaz : ${trophy}`)} | ${chalk.red(`Crown : ${crown}`)}`));
-      await sleep(5500);
+console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.white(`User : ${username}`)} | ${chalk.blue(`Trophy : ${trophy}`)} | ${chalk.red(`Crown : ${crown}`)}`));
+      await sleep(3500);
 
     } else if (result == 'BANNED') {
       console.log(chalk.bgRed(`Mampus ke banned akunnya aowokaw:v`));
