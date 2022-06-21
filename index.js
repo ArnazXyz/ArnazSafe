@@ -59,7 +59,7 @@ By : ${chalk.bold('Arnazx#9611')}
       const trophy = data.User.SkillRating;
       const crown = data.User.Crowns;
 
-console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.white(`User By Arnaz: ${username}`)} | ${chalk.yellow(`Trophy : ${trophy}`)} | ${chalk.red(`Crown By Arnaz: ${crown}`)}`));
+console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.white(`User By Arnaz: ${username}`)} | ${chalk.blue(`Trophy : ${trophy}`)} | ${chalk.green(`Crown By Arnaz: ${crown}`)}`));
       await sleep(5500);
 
     } else if (result == 'BANNED') {
