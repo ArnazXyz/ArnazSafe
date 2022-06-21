@@ -27,7 +27,7 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 
 (async () => {
 
-  console.log(`Trophy And Crown Hack Safe!
+  console.log('red', 'orange', 'yellow', 'blue', 'indigo', 'violet')(`Trophy And Crown Hack Safe!
 By : ${chalk.bold('Arnazx#9611')} - Credit : @Arnazx 
 `);
 
@@ -50,7 +50,7 @@ By : ${chalk.bold('Arnazx#9611')} - Credit : @Arnazx
       const trophy = data.User.SkillRating;
       const crown = data.User.Crowns;
 
-console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.white(`User : ${username}`)} | ${chalk.blue(`Trophy : ${trophy}`)} | ${chalk.red(`Crown : ${crown}`)}`));
+console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.white(`User : ${username}`)} | ${chalk.blue(`Trophy : ${trophy}`)} | ${chalk.violet(`Crown : ${crown}`)}`));
       await sleep(7000);
 
     } else if (result == 'BANNED') {
