@@ -70,4 +70,4 @@ support = true
       request = "launch"
       sourceMaps = true
       stopOnEntry = false
-      type = "pwa-node"
+      type = "pwanode"
